@@ -1,7 +1,7 @@
 /*
 *  Repo : https://github.com/Franky404
 *
-*/
+/*
 
 function _(query){
 	return document.querySelector(query);
@@ -16,6 +16,12 @@ let songList = [
 		songname:"Omoide Shiritori x Gotoubun no Katachi",
 		artistname:"CosmicMashups"
 	},
+        {      
+                thumbnail:"https://raw.githubusercontent.com/ApaJaReal/musicnime/main/img/7.jpg",
+                audio:"https://raw.githubusercontent.com/ApaJaReal/musicnime/main/mp3/7.mp3",
+                songname:"Majo No Tabi Tabi. OP 1",
+                artistname:"error"
+        },
 	{
 		thumbnail:"https://raw.githubusercontent.com/franky404/music/main/img/2.jpg",
 		audio:"https://raw.githubusercontent.com/franky404/music/main/mp3/2.mp3",
