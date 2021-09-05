@@ -1,7 +1,7 @@
 /*
 *  Repo : https://github.com/Franky404
 *
-/*
+*/
 
 function _(query){
 	return document.querySelector(query);
